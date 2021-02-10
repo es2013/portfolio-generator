@@ -1,4 +1,5 @@
 module.exports = generatePage;
+
 const generatePage = (userName, githubName) => {
     return `
     <!DOCTYPE html> 
